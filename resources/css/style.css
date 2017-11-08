@@ -18,8 +18,12 @@ h6 {
   font-size: 21px;
   color: #c0c0c0;
 }
+img {
+  padding: 20px;
+}
 p {
   color: #c0c0c0;
+  font-weight: normal;
 }
 .download-link {
  color: #7fffd4;
