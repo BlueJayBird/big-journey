@@ -1,11 +1,11 @@
 body {
-  font: verdana
+  font: verdana;
   font-weight: normal;
   text-align: center;
-  background-color: black;
+  background-color: Black;
 }
 h1, h2 {
-  color: white;
+  color: White;
 }
 h1 {
   font-size: 50px;
@@ -16,17 +16,17 @@ h2 {
 }
 h6 {
   font-size: 21px;
-  color: gray;
+  color: Gray;
 }
 p {
-  color: gray;
+  color: Gray;
 }
 .download-link {
- color: aquamarine;
+ color: Aquamarine;
  font-size: 16px;
  text-decoration: underline;
 }
 .copy-right {
-  text-align
+  text-align: right;
 }
 
