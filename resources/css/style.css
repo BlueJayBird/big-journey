@@ -1,5 +1,5 @@
 body {
-  font-family: verdana;
+  font-family: verdana !important;
   font-weight: normal;
   text-align: center;
   background-color: #000000;
